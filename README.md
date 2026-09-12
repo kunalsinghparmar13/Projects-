@@ -19,3 +19,4 @@
 # Objective 
 # To create a conversational AI assistant using Python’s core logic - string 
 # matching, functions, dictionaries, and loops.
+# and now API Key is added so it work like AI Chatbot which can answer any question you ask and it use Gemini-3.5-flash through API Key.
