@@ -31,7 +31,7 @@ response = {
     "sad": "Don't worry! Even code breaks sometimes, but it always runs again ", 
     "happy": "That's great to hear! Keep that positive energy going ", 
     "bye": "Goodbye! Keep learning and keep smiling",
-    "what is your name?":"My name is PyGoo "
+    "what is your name?":"My name is PyGoo"
 }
 
 #5. Method to get response from ChatBot
